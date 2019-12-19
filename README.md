@@ -1,1 +1,1 @@
-# begin
+# Logic Cicuit Simulator in C++
